@@ -1,2 +1,2 @@
 # Smart-Signal-Detection-
-its about how it smartly tells strong availability of signal detection
+smartly tells strong availability of Network with weather prediction
